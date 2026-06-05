@@ -5,8 +5,7 @@ My background is in Applied Linguistics and Technology, and I spent more than fi
 Iowa State University's Center for Communication Excellence.
 
 ## Overview
-While I am not able to share the work of others that I have helped to edit and revise due to copyright and privacy issues, this repository contains samples of my own
-research writing showcasing my ability to communicate complex, specialized topics clearly and effectively.
+The majority of my work has been editing and revising pieces of writing for others, which I am not able to share due to copyright and privacy issues. Therefore, this repository contains a few samples of my own research writing, showcasing my ability to communicate complex, specialized topics clearly and effectively.
 
 Email: thomas.b.elliott@gmail.com
 
