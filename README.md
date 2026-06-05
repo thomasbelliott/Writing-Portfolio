@@ -1,4 +1,4 @@
-# Technical-Writing-Portfolio
+# Technical Writing Portfolio
 ## About Me
 Hello and welcome to my Technical Writing Portfolio. My name is Tom, and I enjoy making complex topics easy to understand and helping writers communicate their ideas clearly. 
 My background is in Applied Linguistics and Technology, and I spent more than five years helping researchers across a variety of disciplines write more successfully at 
